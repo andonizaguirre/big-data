@@ -1,0 +1,6 @@
+juan,20,arequipa
+maria,25,lima
+pedro,27,arequipa
+andrea,25,trujillo
+marco,41,arequipa
+rosa,35,lima
